@@ -13,7 +13,7 @@ Eggs and tofus are raining from the sky! These food are generated according to t
 ## Description
 ### Beat Detection
 * The BPM Detector is used to process the audio files and outputs the bpm of the audio.
-* Before the start of the game, the user selects a song out of the options available: Nocturne op.9 No.2, Moonlight Sonata and Stereo Madness
+* Before the start of the game, the user selects a song out of the options available: Nocturne op.9 No.2, Moonlight Sonata and Stereo Madness.
 * The BPM of the song choice will determine the rate at which the falling foods are generated in the game.
 
 ### OpenCV
